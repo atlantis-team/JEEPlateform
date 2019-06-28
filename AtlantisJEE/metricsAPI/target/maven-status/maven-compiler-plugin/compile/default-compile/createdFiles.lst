@@ -1,0 +1,8 @@
+com/webservicemetrics/metricsapi/facade/DataModel.class
+com/webservicemetrics/service/DataService.class
+com/webservicemetrics/metricsapi/facade/ApplicationConfig.class
+com/webservicemetrics/domaine/Data.class
+com/webservicemetrics/metricsapi/facade/MetricsResource.class
+com/webservicemetrics/service/DataServiceLocal.class
+com/webservicemetrics/dao/DataDAO.class
+com/webservicemetrics/domaine/Data_.class

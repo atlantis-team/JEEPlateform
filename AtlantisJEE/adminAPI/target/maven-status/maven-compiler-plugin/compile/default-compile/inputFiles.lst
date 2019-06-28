@@ -1,0 +1,7 @@
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/adminAPI/src/main/java/com/webserviceadmin/dao/UsersDAO.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/adminAPI/src/main/java/com/webserviceadmin/service/UsersServiceLocal.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/adminAPI/src/main/java/com/webserviceadmin/service/UsersService.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/adminAPI/src/main/java/com/webserviceadmin/facade/AdminResource.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/adminAPI/src/main/java/com/webserviceadmin/domain/Users.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/adminAPI/src/main/java/com/webserviceadmin/facade/ApplicationConfig.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/adminAPI/src/main/java/com/webserviceadmin/facade/UserModel.java

@@ -1,0 +1,8 @@
+com/webserviceadmin/domain/Users_.class
+com/webserviceadmin/facade/AdminResource.class
+com/webserviceadmin/domain/Users.class
+com/webserviceadmin/facade/ApplicationConfig.class
+com/webserviceadmin/service/UsersService.class
+com/webserviceadmin/facade/UserModel.class
+com/webserviceadmin/dao/UsersDAO.class
+com/webserviceadmin/service/UsersServiceLocal.class
