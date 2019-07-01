@@ -2,6 +2,7 @@ package com.webservicemobile.service;
 
 import com.webservicemobile.domain.Users;
 import com.webservicemobile.dao.UsersDAO;
+import java.util.List;
 import javax.ejb.Remove;
 import javax.ejb.Stateless;
 import javax.inject.Inject;
@@ -23,6 +24,10 @@ public class UsersService implements UsersServiceLocal
         users.setFirstName(firstname);
         users.setLastName(lastname);
         System.out.println("user identity: "+firstname+" "+lastname);
+    }
+    
+    public Boolean IsUserInBD(String oid) {
+        return usersDAO.IsUserInDB(oid);
     }
     
 /*    @Override

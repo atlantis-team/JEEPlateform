@@ -1,0 +1,17 @@
+com/webservicejms/dao/UsersDAO.class
+com/webservicejms/dao/DeviceDAO.class
+com/webservicejms/dao/MetricsDAO.class
+com/webservicejms/service/MetricServiceLocal.class
+com/webservicejms/service/MetricService.class
+com/webservicejms/service/DeviceServiceLocal.class
+com/webservicejms/domain/Metrics.class
+com/webservicejms/domain/Device_.class
+com/webservicejms/service/UsersServiceLocal.class
+com/webservicejms/service/DeviceService.class
+com/webservicejms/domain/Users.class
+com/webservicejms/domain/Device.class
+com/webservicejms/domain/Metrics_.class
+com/webservicejms/domain/Users_.class
+com/webservicejms/service/UsersService.class
+com/webservicejms/MetricsModel.class
+com/webservicejms/JMSMessageBean.class

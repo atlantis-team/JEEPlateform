@@ -35,6 +35,15 @@ public class MetricsResource {
     @Inject
     DataServiceLocal dService;
     
+    @Path("sendMetric")
+    @POST
+    public void SendMetric() {
+        //Connect to JMS's send()
+        
+        
+    }
+    
+    /*
     @Path("getmetrics")
     @GET
     @Produces(MediaType.APPLICATION_JSON)
@@ -63,4 +72,5 @@ public class MetricsResource {
         //retour d'une réponse sans corps indiquant un statut 202 : la requête a été acceptée mais le processus n'est pas terminé
         return Response.accepted().build();
     }
+*/
 }

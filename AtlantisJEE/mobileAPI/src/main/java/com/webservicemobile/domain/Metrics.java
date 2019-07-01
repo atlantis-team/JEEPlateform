@@ -9,17 +9,17 @@ import javax.persistence.*;
  * @author cesi
  */
 @Entity
-@Table(name="Users")
+@Table(name="Metrics")
 public class Metrics 
 {
     
     @Id @GeneratedValue(strategy =  GenerationType.IDENTITY)
     @Column(name="ID")
     private Long ID;
-    @Column(name="User_ID")
-    private String User_ID;
+    @Column(name="Device_ID")
+    private int Device_ID;
     @Column(name="MetricValue")
-    private String MetricValue;
+    private float MetricValue;
     @Column(name="MetricDate")
     private String MetricDate;
 
@@ -31,19 +31,19 @@ public class Metrics
         this.ID = ID;
     }
 
-    public String getUser_ID() {
-        return User_ID;
+    public int getDevice_ID() {
+        return Device_ID;
     }
 
-    public void setUser_ID(String User_ID) {
-        this.User_ID = User_ID;
+    public void setDevice_ID(int Device_ID) {
+        this.Device_ID = Device_ID;
     }
 
-    public String getMetricValue() {
+    public float getMetricValue() {
         return MetricValue;
     }
 
-    public void setMetricValue(String MetricValue) {
+    public void setMetricValue(float MetricValue) {
         this.MetricValue = MetricValue;
     }
 
@@ -53,6 +53,10 @@ public class Metrics
 
     public void setMetricDate(String MetricDate) {
         this.MetricDate = MetricDate;
+    }
+
+    public String toString() {
+        return "[" + ID + "] : device_ID : " +Device_ID + ",Value : " + MetricValue + ", date ; " + MetricDate;
     }
 
 

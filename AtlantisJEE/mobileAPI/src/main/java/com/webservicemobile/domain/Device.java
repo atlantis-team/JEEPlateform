@@ -20,7 +20,29 @@ public class Device
     private String User_OID;
     @Column(name="DeviceName")
     private String DeviceName;
+    @Column(name="MacAdress")
+    private String MacAdress;
+    @Column(name="DeviceType")
+    private String DeviceType;
 
+    public String getDeviceType() {
+        return DeviceType;
+    }
+
+    public void setDeviceType(String DeviceType) {
+        this.DeviceType = DeviceType;
+    }
+
+    public String getMacAdress() {
+        return MacAdress;
+    }
+
+    public void setMacAdress(String MacAdress) {
+        this.MacAdress = MacAdress;
+    }
+
+    
+    
     public Long getID() {
         return ID;
     }

@@ -13,7 +13,7 @@ import javax.persistence.*;
 public class Users 
 {
     
-    @Id @GeneratedValue(strategy =  GenerationType.IDENTITY)
+    @Id
     //@Column(name="ID")
     //private Long Id;
     @Column(name="oid")
@@ -23,8 +23,12 @@ public class Users
     @Column(name="LastName")
     private String LastName;
     
-        public String getOid() {
+    public String getOid() {
         return oid;
+    }
+
+    public void setOid(String oid) {
+        this.oid = oid;
     }
 
     public String getFirstName() {

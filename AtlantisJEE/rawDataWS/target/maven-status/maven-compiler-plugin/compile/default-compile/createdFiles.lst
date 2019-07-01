@@ -1,0 +1,15 @@
+com/webservicerawdata/dao/DeviceDAO.class
+com/webservicerawdata/domain/Device.class
+com/webservicerawdata/domain/Users_.class
+com/webservicerawdata/service/UsersService.class
+com/webservicerawdata/dao/MetricsDAO.class
+com/webservicerawdata/domain/Users.class
+com/webservicerawdata/domain/Metrics.class
+com/webservicerawdata/service/DeviceServiceLocal.class
+com/webservicerawdata/service/MetricService.class
+com/webservicerawdata/dao/UsersDAO.class
+com/webservicerawdata/domain/Device_.class
+com/webservicerawdata/service/DeviceService.class
+com/webservicerawdata/domain/Metrics_.class
+com/webservicerawdata/service/MetricServiceLocal.class
+com/webservicerawdata/service/UsersServiceLocal.class

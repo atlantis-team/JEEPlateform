@@ -48,7 +48,7 @@ public class DeviceService implements DeviceServiceLocal
     public List<Device> select(String User_OID) 
     {
         List<Device> devices = deviceDAO.select(User_OID);
-        System.err.println("Get Devices");
+       
         return devices;
     }
     

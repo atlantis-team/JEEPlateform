@@ -1,0 +1,12 @@
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/domain/Device.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/dao/DeviceDAO.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/service/MetricService.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/dao/UsersDAO.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/dao/MetricsDAO.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/service/UsersServiceLocal.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/service/MetricServiceLocal.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/service/DeviceServiceLocal.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/domain/Users.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/domain/Metrics.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/service/DeviceService.java
+/home/cesi/NetBeansProjects/Atlantis/AtlantisJEE/rawDataWS/src/main/java/com/webservicerawdata/service/UsersService.java

@@ -18,4 +18,6 @@ public interface UsersServiceLocal
     public void addUsers(String firstname, String lastname);
     
     public void save(Users users);
+    
+    public Boolean IsUserInBD(String oid);
 }
